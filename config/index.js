@@ -83,7 +83,8 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-   
+     {"type": "生日", "name": "阿姨生日", "year": "1973", "date": "09-26"},
+    {"type": "生日", "name": "叔叔生日", "year": "1973", "date": "10-20"},
   ],
 
   /**
@@ -91,7 +92,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 0,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
