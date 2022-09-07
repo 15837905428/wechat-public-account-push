@@ -107,8 +107,6 @@ export const config = {
     {"keyword": "love_day", date: "2022-07-02"},
     // 宝宝生日
     {"keyword": "marry_day", date: "1995-04-20"},
-    // 退伍日, 不用可以删掉
-   // {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
