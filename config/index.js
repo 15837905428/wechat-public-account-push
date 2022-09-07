@@ -94,7 +94,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
@@ -106,7 +106,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2022-07-02"},
     // 宝宝生日
-    {"keyword": "marry_day", date: "1995-04-20"},
+    {"keyword": "marry_day", date: "2023-04-20"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
