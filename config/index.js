@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oipbO6ggxnDtehHbqnf3p5NCi_Gc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	BOOKx5ea0jJnGZkl8YnTwOExkW_h4Tmbf5rsW0v_ONE",
+      useTemplateId: "BOOKx5ea0jJnGZkl8YnTwOExkW_h4Tmbf5rsW0v_ONE",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -43,30 +43,7 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://weibo.com/newlogin"
     }, 
-    {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+  
   ],
 
   /**
